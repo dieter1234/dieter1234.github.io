@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57484420-9ab6-49cb-af1f-199b87dfc294" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-cv-boxed/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/02-cv-boxed/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/FiveM.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/FiveM.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/PHP_project.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/PHP_project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/oef3_3_pong.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/oef3_3_pong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/oef3_3_pong_Multiplayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/oef3_3_pong_Multiplayer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/project3.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/project3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten/tif for two.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten/tif for two.html" afterDir="false" />
-    </list>
+    <list default="true" id="57484420-9ab6-49cb-af1f-199b87dfc294" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="y" value="40" />
     <option name="width" value="974" />
@@ -222,15 +213,15 @@
       <option name="presentableId" value="Default" />
       <updated>1587364219460</updated>
       <workItem from="1587364220707" duration="4307000" />
-      <workItem from="1587458074991" duration="14680000" />
+      <workItem from="1587458074991" duration="15279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18987000" />
+    <option name="totallyTimeSpent" value="19586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
